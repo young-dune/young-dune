@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![young-dune's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-dune&show_icons=true&theme=cobalt)
+![young-dune's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-dune&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young-dune&layout=compact)
