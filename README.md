@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![young-dune's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-dune&show_icons=true&theme=tokyonight)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dudwnsths1)](https://solved.ac/dudwnsths1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young-dune&layout=compact)
