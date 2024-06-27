@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![young-dune's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-dune&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young-dune&layout=compact)
