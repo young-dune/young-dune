@@ -10,9 +10,8 @@
 ## Skills ✌
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-
+<img src="https://img.shields.io/badge/Java-beige?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-ECD53F?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 ### Tools 😍
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
