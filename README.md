@@ -8,7 +8,6 @@
 
 ## Skills ✌
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-ECD53F?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 ### Tools 😍
